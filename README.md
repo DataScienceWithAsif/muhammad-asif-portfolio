@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://github.com/DataScienceWithAsif"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-DataScienceWithAsif-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/muhammadasif1290/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Asif-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/muhammad-asif-ambitious/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Asif-0A66C2?style=for-the-badge&logo=linkedin"></a>
   <img alt="Role" src="https://img.shields.io/badge/Role-AI%20Engineer-7C3AED?style=for-the-badge">
 </p>
 
@@ -71,7 +71,7 @@ muhammad-asif-portfolio/
 If you'd like to collaborate on AI products, research prototypes, or intelligent assistant systems, feel free to connect:
 
 - GitHub: https://github.com/DataScienceWithAsif
-- LinkedIn: https://www.linkedin.com/in/muhammadasif1290/
+- LinkedIn: https://www.linkedin.com/in/muhammad-asif-ambitious/ 
 
 ---
 
